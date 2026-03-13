@@ -1,0 +1,747 @@
+{
+    "filename": "Sample Report",
+    "pages": [
+        {
+            "page_number": 1,
+            "text": " \n \nInspection Form \n \nComplete \n \nScore \n85.71% \nFlagged items \n1 Actions \n0 \n \nCustomer Name \nMobile: \nEmail: \n \n \nAddress: \n \n \nProperty Age (In years): \nFloors: \n11 \n \nPrevious Structural audit done \nNo \nPrevious Repair work done \nNo \nInspection Date and Time: \n27.09.2022 14:28 IST \nInspected By: \nKrushna & Mahesh \nProperty Type: \nFlat \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p1_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p1_img1.png"
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "text": " \n \n \n \nChecklists / Inspection Checklists \n \nChecklist: \n \n \n \nFlagged items \n1 flagged \nWC \nExternal wall \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p2_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p2_img1.png"
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "text": " \n \n \n \n \n \n \n \nImpacted Areas/Rooms \nHall, Bedroom, Kitchen, Master \nBedroom, Parking Area, \nCommon bathroom \n \n \n \nImpacted Area \nImpacted Area 1 \n \nNegative side Description \nHall Skirting level Dampness \nNegative side photographs \n \nPhoto 1 \nPhoto 2 \nPhoto 3 \nPhoto 4 \nPhoto 5 \nPhoto 6 \n \nPhoto 7 \n \nPositive side Description \nCommon Bathroom tile \nhollowness \n \nPositive side photographs \n \nPhoto 8 \nPhoto 9 \nPhoto 10 \nPhoto 11 \n \nImpacted Area 2 \n \nNegative side Description \nBedroom Skirting level \nDampness \nNegative side photographs \n \nSite Details \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p3_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p3_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img7.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img8.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img8.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img9.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img9.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img10.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img10.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img11.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img11.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img12.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img12.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img13.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img13.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img14.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img14.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p3_img15.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p3_img15.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "text": " \n \n \nPositive side Description \nCommon Bathroom tile \nhollowness \nPositive side photographs \n \nPhoto 15 \nPhoto 16 \nPhoto 17 \nPhoto 18 \nPhoto 19 \n \nImpacted Area 3 \n \n \nNegative side Description \nMaster bedroom Skirting level \nDampness \nNegative side photographs \n \nPhoto 20 \nPhoto 21 \nPhoto 22 \nPhoto 23 \nPhoto 24 \nPhoto 25 \n \nPositive side Description \nMB Bathroom tile hollowness \n \n \nPositive side photographs \n \nPhoto 26 \nPhoto 27 \nPhoto 28 \nPhoto 29 \nPhoto 30 \n \nImpacted Area 4 \n \nNegative side Description \nKitchen Skirting level \nDampness \nNegative side photographs \n \nPhoto 31 \nPhoto 32 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p4_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p4_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img7.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img8.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img8.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img9.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img9.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img10.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img10.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img11.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img11.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img12.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img12.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img13.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img13.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img14.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img14.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img15.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img15.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img16.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img16.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img17.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img17.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img18.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img18.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p4_img19.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p4_img19.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "text": " \n \n \nPositive side Description \nMaster bedroom bathroom \nPositive side photographs \n \nPhoto 33 \nPhoto 34 \nPhoto 35 \nPhoto 36 \nPhoto 37 \n \nImpacted Area 5 \n \nNegative side Description \nMaster bedroom wall damness \nNegative side photographs \n \nPhoto 38 \nPhoto 39 \nPhoto 40 \nPhoto 41 \n \nPositive side Description \nExternal wall crack and Duct \nIssue \n \nPositive side photographs \n \nPhoto 42 \nPhoto 43 \nPhoto 44 \nPhoto 45 \nPhoto 46 \nPhoto 47 \n \nPhoto 48 \n \nImpacted Area 6 \n \nNegative side Description \nParking Area seepage \nNegative side photographs\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p5_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p5_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img7.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img8.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img8.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img9.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img9.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img10.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img10.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img11.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img11.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img12.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img12.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img13.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img13.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img14.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img14.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img15.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img15.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img16.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img16.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p5_img17.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p5_img17.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "text": " \n \n \n \n \n \n \nPhoto 49 \nPhoto 50 \nPhoto 51 \nPhoto 52 \n \n \nPositive side Description \nCommon Bathroom tile \nhollowness and plumbing issue \n \n \n \nPositive side photographs \n \nPhoto 53 \nPhoto 54 \nPhoto 55 \nPhoto 56 \nPhoto 57 \n \nImpacted Area 7 \n \n \nNegative side Description \nCommon Bathroom Ceiling \nDampness \n \nNegative side photographs \n \n \n \n \n \n \nPhoto 58 \noutlet Leakage \n \n \nPositive side Description \nFlat no 203 tile joint open and \n \nPositive side photographs \n \nPhoto 59 \nPhoto 60 \nPhoto 61 \nPhoto 62 \nPhoto 63 \nPhoto 64 \n \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p6_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p6_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img7.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img8.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img8.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img9.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img9.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img10.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img10.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img11.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img11.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img12.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img12.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img13.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img13.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img14.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img14.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img15.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img15.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img16.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img16.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p6_img17.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p6_img17.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "text": " \n \n \n \nInspection Checklists \n1 flagged, 84.21% \n \n \n \nCondition of leakage at adjacent walls \nCondition of leakage below WC \n \nLeakage during: \nAll time \nLeakage due to concealed plumbing \nYes \n \nLeakage due to damage in Nahani trap/Brickbat coba under \ntile flooring \n \n  \nYes \n \n \n \n \nPositive Side Inputs For WC \n100% \n \nGaps/Blackish dirt Observed in tile joints \nYes \nGaps around Nahani Trap Joints \nYes \nTiles Broken/Loosed anywhere \nNo \nLoose Plumbing joints/rust around joints and edges (Flush \n  \nYes \n \n  Tank/shower/angle cock/bibcock, washbasin, etc) \n \n \nType of tile \nNegative Side Inputs For External Wall \n75% \n \nCondition of leakage at interior side \n \nLeakage during: \nAll time \nLeakage due to concealed plumbing \nYes \nInternal WC/Bath/Balcony leakage observed \nYes \n \nPositive Side Inputs for External Wall \n100% \n \nExisting type of paint and manufacturer \nNot sure \nStuctural Condition of RCC Members \n100%\nChecklists \n1 flagged, 84.21% \nModerate \nChecklist: \nWC \nExternal wall \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p7_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p7_img1.png"
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "text": " \n \nCondition of cracks observed on RCC Column and Beam \nModerate \nCondition of rust marks observed in RCC Beam and Column \nN/A \n \nCondition of corrosion/spalling of concrete/exposed \nreinforcement observed in column/beams/roof slab ceiling \n \n  \nN/A \n \n \n \n \nExpansion joints condition if any \n  \nN/A \n \nCondition of External wall \n100% \n \n \nAre there any major or minor cracks observed over external \nsurface? \n \n  \nModerate \n \n \n \n \nAre the sealants applied on the window frame joints intact? \n  \nN/A \n \nCondition of wall mounted AC Frames, holes, drain pipes over \nthe wall. \n \nAre the external plumbing pipes cracked and leaked? If yes its \ncondition. \n \nAre the openings around the pipes in external wall properly \ngrouted? If not its condition. \n \nCondition of any vegetation growth, dish antennas fixed on \nparapet wall observed? \n  \nN/A \n \n \n \n  \nModerate \n \n \n \n  \nN/A \n \n \n \n  \nN/A \n \n \n \n \nCondition of Adhesion of old paint \n100% \n \nChalking and flaking in paint film. \nN/A \nAlgae fungus and Moss observed on external wall? \nModerate \nBird droppings condition observed on external wall and Chajja \nN/A \nCondition of corrosion on metal rods and MS window grills \nN/A \n  Substrate condition of Plaster \n \n \nPatchwork plaster required? if yes its condition? \nN/A \nEntire replaster required? if yes its condition? \nN/A \nCondition of separation cracks observed at beam-column \n  \nN/A \n \n  junction \n \n \nCondition of leakage observed from overhead water tank \nN/A \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p8_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p8_img1.png"
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "text": " \n \n \nLoose plaster/hollow sond on external surfaces?if observed, \nN/A \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p9_img1.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p9_img1.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p9_img2.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p9_img2.png"
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "text": " \n \n \n \nSUMMARY TABLE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPoint \nNo \nImpacted area (-ve side) \nPoint \nNo \nExposed area (+ve side) \n1 \nObserved dampness at the skirting level \nof Hall of Flat No. 103 \n \n1.1 \n \nObserved gaps between the tile joints of \nCommon Bathroom of Flat No. 103 \n \n2 \nObserved dampness at the skirting level \nof the Common Bedroom of Flat No. 103 \n \n \n2.1 \nObserved gaps between the tile joints of \nCommon Bathroom of Flat No. 103 \n \n3 \nObserved dampness at the skirting level \nof Master Bedroom of Flat No. 103 \n \n3.1 \nObserved gaps between the tile joints of Master \nBedroom Bathroom of Flat No. 103 \n \n4 \nObserved dampness at the skirting level \nof Kitchen of Flat No. 103 \n \n4.1 \nObserved gaps between the tile joints of Master \nBedroom Bathroom of Flat No. 103 \n \n5 \nObserved dampness & efflorescence on \nthe wall surface of Master Bedroom of \nFlat No. 103 \n \n5.1 \nObserved cracks on the External wall of building \nnear Master Bedroom of Flat No. 103 \n \n6 \nObserved leakage at the Parking ceiling \nbelow Flat No. 103 \n \n6.1 \nObserved plumbing issue & gaps between the \ntile joints of Common Bathroom of Flat No. 103 \n \n7 \nObserved mild dampness at the ceiling of \nCommon Bathroom of Flat No. 103 \n \n7.1 \nObserved gap between tile joints of Common & \nMaster Bedroom Bathrooms of Flat No. 203. \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p10_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p10_img1.png"
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "text": " \n \nAppendix \n \n \nPhoto 1 \nPhoto 2 \n \nPhoto 3 \nPhoto 4 \n \nPhoto 5 \nPhoto 6\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p11_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p11_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p11_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p11_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p11_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p11_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p11_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p11_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "text": " \n \nPhoto 7 \nPhoto 8 \n \nPhoto 9 \nPhoto 10 \n \nPhoto 11 \nPhoto 12 \n \nPhoto 13 \nPhoto 14 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p12_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p12_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p12_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p12_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p12_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p12_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p12_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p12_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 13,
+            "text": " \n \n \n \nPhoto 15 \nPhoto 16 \n \nPhoto 17 \nPhoto 18 \n \nPhoto 19 \nPhoto 20\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p13_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p13_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img7.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p13_img8.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p13_img8.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 14,
+            "text": " \n \nPhoto 21 \nPhoto 22 \n \nPhoto 23 \nPhoto 24 \n \nPhoto 25 \nPhoto 26 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p14_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p14_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p14_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p14_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p14_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p14_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p14_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p14_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p14_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p14_img5.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 15,
+            "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPhoto 27 \nPhoto 28 \n \nPhoto 29 \nPhoto 30\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p15_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p15_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p15_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p15_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p15_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p15_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p15_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p15_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 16,
+            "text": " \n \nPhoto 31 \nPhoto 32 \n \nPhoto 33 \nPhoto 34 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p16_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p16_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p16_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p16_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p16_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p16_img3.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 17,
+            "text": " \n \n \n \n \nPhoto 35 \nPhoto 36 \n \nPhoto 37 \nPhoto 38\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p17_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p17_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p17_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p17_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p17_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p17_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p17_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p17_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 18,
+            "text": " \n \nPhoto 39 \nPhoto 40 \n \nPhoto 41 \nPhoto 42 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p18_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p18_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p18_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p18_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p18_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p18_img3.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 19,
+            "text": " \n \n \n \nPhoto 43 \nPhoto 44 \n \nPhoto 45 \nPhoto 46 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p19_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p19_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p19_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p19_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p19_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p19_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p19_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p19_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 20,
+            "text": " \n \n \n \nPhoto 47 \nPhoto 48 \n \nPhoto 49 \nPhoto 50\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p20_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p20_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p20_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p20_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p20_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p20_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p20_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p20_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 21,
+            "text": " \n \nPhoto 51 \nPhoto 52 \n \nPhoto 53 \nPhoto 54 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p21_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p21_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p21_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p21_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p21_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p21_img3.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 22,
+            "text": " \n \n \n \n \nPhoto 55 \nPhoto 56 \n \nPhoto 57 \nPhoto 58\n",
+            "images": [
+                {
+                    "filename": "Sample Report_p22_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p22_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p22_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p22_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p22_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img5.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p22_img6.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img6.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p22_img7.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p22_img7.jpeg"
+                }
+            ]
+        },
+        {
+            "page_number": 23,
+            "text": " \n \n \nPhoto 59 \nPhoto 60 \n \nPhoto 61 \nPhoto 62 \n \nPhoto 63 \nPhoto 64 \n",
+            "images": [
+                {
+                    "filename": "Sample Report_p23_img1.png",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p23_img1.png"
+                },
+                {
+                    "filename": "Sample Report_p23_img2.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p23_img2.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p23_img3.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p23_img3.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p23_img4.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p23_img4.jpeg"
+                },
+                {
+                    "filename": "Sample Report_p23_img5.jpeg",
+                    "path": "d:\\UrbanRoof\\data\\extracted\\images\\Sample Report_p23_img5.jpeg"
+                }
+            ]
+        }
+    ]
+}
